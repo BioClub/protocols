@@ -4,7 +4,7 @@
 - Needs tweaking
 ```
 
-Extract DNA from saliva, without expensive reagents
+Extract DNA from saliva, without expensive reagents. Based off [eMyco Mycoplasma PCR Detection kit's protocol](https://intronbio.com:6001/intronbioen_m/product/product_view.php?PRDT_ID=125#none)
 
 ## Equipment needed
 
