@@ -14,7 +14,7 @@ Put a breif description of what the experiment is supposed to do.
 - reagents
 - needed
 - and if possible, specify brand and reagent name
-- eg. "agar" is not acceptable, list as "Nippon Gene Agarose 21"
+- eg. "agar" is not acceptable, be specific and list as "Nippon Gene Agarose 21"
 
 ## Steps
 
